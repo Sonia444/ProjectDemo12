@@ -8,7 +8,13 @@
 	</children>
 	<config language="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" />
 	<testItems key="{FC070D04-244C-488B-AC54-7066392CEE0C}" version="14">
-		<children />
+		<children>
+			<testItem name="ProjectTestItem1" key="{4C37B9A9-445E-455A-A999-FA19A9ACBC19}" group="False" parallel="False" enabled="True" testMoniker="KDT\{BCD6E8CF-0A0B-49DC-A100-0EB212A4C4AD}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<environments activeCloud="CBT" />
+				<children />
+			</testItem>
+		</children>
 	</testItems>
 	<variables key="{EA13319A-CACC-4349-96CE-4D55E2835443}" />
 	<settings key="{99E2353F-2552-466C-BA43-B7E45FCB09F4}">
